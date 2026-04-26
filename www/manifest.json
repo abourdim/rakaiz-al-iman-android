@@ -1,0 +1,12 @@
+{
+  "name": "Pillars of Faith — ركائز الإيمان",
+  "short_name": "ركائز الإيمان",
+  "description": "Interactive trilingual app based on Sheikh Mohammed al-Ghazali's book — Pillars of Faith Between Mind and Heart",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#F5F0FA",
+  "theme_color": "#6A1B9A",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": []
+}
